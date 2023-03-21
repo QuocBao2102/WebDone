@@ -1,0 +1,174 @@
+#wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+}
+
+#center {
+    width: 910px;
+    display: flex;
+    flex-direction: column;
+}
+
+#title {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+#right {
+    width: 400px;
+    background-color: aqua;
+    display: flex;
+}
+
+#left {
+    width: 90px;
+    height: 870px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#left_above {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#below {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    width: 32px;
+    margin-top: 50px;
+}
+
+#setting {
+    margin-top: 36px;
+}
+
+#banner {
+    display: flex;
+}
+
+#imgbanner {
+    display: flex;
+    width: 834px;
+    height: 460px;
+}
+
+#Internal {
+    display: flex;
+    align-items: center;
+    background-color: rgb(243, 82, 130);
+    color: white;
+    border-radius: 15px;
+    border-radius: 15px 15px;
+    border-radius: 15px 15px 15px;
+    border-radius: 15px 15px 15px;
+    width: 100px;
+    height: 30px;
+}
+
+#top {
+    align-items: center;
+    width: 350px;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#time {
+    display: flex;
+    margin-left: 84%;
+    height: 10px;
+}
+
+#time2 {
+    display: flex;
+    align-items: center;
+    color: red;
+    border-radius: 15px;
+    border-radius: 15px 15px;
+    border-radius: 15px 15px 15px;
+    border-radius: 15px 15px 15px;
+    width: 70px;
+    height: 30px;
+    border-color: red;
+}
+
+#text {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#redmic {
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 10px;
+}
+
+#member {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -10px;
+    margin-top: 20px;
+    width: 860px;
+}
+
+#chris {
+    display: flex;
+    width: 260px;
+    height: 160px;
+}
+
+#debora {
+    display: flex;
+    width: 260px;
+    height: 160px;
+}
+
+#jordan {
+    display: flex;
+    width: 260px;
+    height: 160px;
+}
+
+#smallicon {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+#parti {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    height: 35%;
+    justify-content: space-around;
+}
+
+.memberchat {
+    display: flex;
+    justify-content: space-around;
+    width: 210px;
+}
+
+#chat {
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+    margin-left: -10px;
+}
